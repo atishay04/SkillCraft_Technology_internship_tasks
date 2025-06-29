@@ -33,5 +33,8 @@ Each task showcases real-world datasets, practical problem-solving approaches, a
 
 ---
 
+🔗 Connect with me on [LinkedIn](www.linkedin.com/in/atishay-jain-0465aj)  
+🧑‍💻 GitHub: [@atishay04](https://github.com/atishay04)
+
 Each task is maintained in its own individual repository for clarity and modularity.  
 You can find all task links in the table above or explore my GitHub profile for more projects.
